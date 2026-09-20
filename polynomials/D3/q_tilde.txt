@@ -1,0 +1,2 @@
+# q_tilde(a,b,rho) in Python/sympy syntax; variables: a,b,rho
+-a**3*b*rho**2 + a**3*b + a**3*rho + 4*a**2*b*rho**2 - a**2*b*rho - 2*a**2*b - 2*a**2*rho - a*b**3*rho**2 + a*b**3 + 2*a*b**2*rho**2 + a*b**2*rho - 4*a*b**2 - 8*a*b*rho**2 + 8*a*b + 8*a*rho - b**3*rho + 2*b**2*rho - 8*b*rho

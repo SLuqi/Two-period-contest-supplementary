@@ -1,0 +1,2 @@
+# Q_3(nu,s,t) in Python/sympy syntax; variables: nu,s,t
+-nu**8*s**12*t**2 - nu**8*s**10*t**2 + 4*nu**6*s**9*t**2 + 2*nu**6*s**8*t**2 + nu**4*s**7*t - 8*nu**4*s**6*t**2 - nu**4*s**6*t + nu**4*s**6 + nu**4*s**5*t - nu**4*s**4*t + nu**4*s**4 - 2*nu**2*s**4*t - 2*nu**2*s**3 + 2*nu**2*s**2*t - 4*nu**2*s**2 + 8*s*t - 8*t + 8

@@ -1,0 +1,2 @@
+# Q_0(t,b,sigma) in Python/sympy syntax; variables: t,b,sigma
+-b**4*sigma**2*t**4 - b**4*sigma**2*t**2 + 4*b**3*sigma**2*t**3 + 2*b**3*sigma**2*t**2 - 8*b**2*sigma**2*t**2 + b**2*sigma*t**3 - b**2*sigma*t**2 + b**2*sigma*t - b**2*sigma + b**2*t**2 + b**2 - 2*b*sigma*t**2 + 2*b*sigma - 2*b*t - 4*b + 8*sigma*t - 8*sigma + 8
