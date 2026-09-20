@@ -1,2 +1,0 @@
-# z5_q(z,tau,rho) in Python/sympy syntax; variables: z,tau,rho
--rho**2*tau**2*z**3 + 4*rho**2*tau**2*z**2 - 8*rho**2*tau**2*z + 2*rho**2*tau*z**2 - rho**2*z**3 + rho*tau**3*z**2 - 2*rho*tau**3*z + 8*rho*tau**3 - rho*tau**2*z**2 - 8*rho*tau**2 + rho*tau*z**2 + 2*rho*tau*z - rho*z**2 + tau**2*z**3 - 2*tau**2*z**2 + 8*tau**2*z - 4*tau*z**2 + z**3

@@ -1,2 +1,0 @@
-# qhat(beta,sigma,t) in Python/sympy syntax; variables: beta,sigma,t
--beta**12*sigma**4*t**2 - beta**10*sigma**2*t**2 + 4*beta**9*sigma**3*t**2 + 2*beta**8*sigma**2*t**2 + beta**7*sigma**3*t - 8*beta**6*sigma**2*t**2 - beta**6*sigma**2*t + beta**6*sigma**2 + beta**5*sigma*t - 2*beta**4*sigma**2*t - beta**4*t + beta**4 - 2*beta**3*sigma + 2*beta**2*t - 4*beta**2 + 8*beta*sigma*t - 8*t + 8

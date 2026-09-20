@@ -1,2 +1,0 @@
-# Q_5(mu,s,rho) in Python/sympy syntax; variables: mu,s,rho
--mu**3*rho**4*s**3 - mu**3*rho**4*s + mu**3*rho**2*s**3 + mu**3*rho**2*s + 4*mu**2*rho**3*s**2 + 2*mu**2*rho**3*s + mu**2*rho**2*s**3 - mu**2*rho**2*s**2 + mu**2*rho**2*s - mu**2*rho**2 - 2*mu**2*rho*s**2 - 4*mu**2*rho*s - 8*mu*rho**2*s - 2*mu*rho*s**2 + 2*mu*rho + 8*mu*s + 8*s - 8

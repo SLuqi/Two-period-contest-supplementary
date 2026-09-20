@@ -1,2 +1,0 @@
-# omega_rho(m_i,m_j,rho) in Python/sympy syntax; variables: m_i,m_j,rho
--32*m_i**5*m_j**4 + 16*m_i**5*m_j**3 - 4*m_i**5*m_j**2 - 64*m_i**4*m_j**4*rho - 24*m_i**4*m_j**4 + 32*m_i**4*m_j**3*rho + 16*m_i**4*m_j**3 - 8*m_i**4*m_j**2*rho - 4*m_i**4*m_j**2 + 16*m_i**3*m_j**4*rho + 4*m_i**3*m_j**4 - 8*m_i**2*m_j**4*rho - 4*m_i**2*m_j**4

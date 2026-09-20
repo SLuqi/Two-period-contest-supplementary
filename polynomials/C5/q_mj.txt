@@ -1,2 +1,0 @@
-# q_mj(m_i,m_j,rho) in Python/sympy syntax; variables: m_i,m_j,rho
--16*m_i**3*m_j*rho + 2*m_i**3*rho + 24*m_i**2*m_j**2*rho - 16*m_i**2*m_j*rho**2 + 16*m_i**2*m_j + 2*m_i**2*rho**2 + m_i**2*rho - 4*m_i**2 - 6*m_i*m_j**2*rho + 8*m_i*m_j*rho**2 - 2*m_i*m_j*rho - 4*m_i*m_j + 3*m_j**2*rho - 2*m_j*rho**2 + 2*m_j

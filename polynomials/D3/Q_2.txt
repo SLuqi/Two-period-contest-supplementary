@@ -1,2 +1,0 @@
-# Q_2(sigma,b,rho) in Python/sympy syntax; variables: sigma,b,rho
--b**3*rho**2*sigma + b**3*sigma - b**3 + 2*b**2*rho**2*sigma + b**2*rho*sigma - 4*b**2*sigma + 2*b**2 - b*rho**4*sigma**3 + 4*b*rho**3*sigma**2 + b*rho**2*sigma**3 - b*rho**2*sigma**2 - 8*b*rho**2*sigma - 2*b*rho*sigma**2 + 8*b*sigma - 8*b + rho**3*sigma**3 - 2*rho**2*sigma**2 + 8*rho*sigma
