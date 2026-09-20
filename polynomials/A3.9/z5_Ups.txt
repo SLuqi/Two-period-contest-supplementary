@@ -1,0 +1,2 @@
+# z5_Ups(z,tau,rho) in Python/sympy syntax; variables: z,tau,rho
+6*rho**2*tau**2*z - 4*rho**2*tau*z**2 + rho**2*z**3 - 2*rho*tau**2*z**3 + 4*rho*tau**2*z**2 - 10*rho*tau**2*z + 6*rho*tau**2 + 4*rho*tau*z**2 - 4*rho*tau*z - rho*z**3 + rho*z**2 - tau**2*z**2 + 2*tau**2*z - 2*tau**2

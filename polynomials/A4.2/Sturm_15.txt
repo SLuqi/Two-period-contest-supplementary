@@ -1,0 +1,2 @@
+# Sturm_15(s) in Python/sympy syntax; variables: s
+1
